@@ -18,14 +18,22 @@
 ---
 
 ## 🛠️ Tech Stack
-**💻 Languages:**  
-`HTML` | `CSS` | `JavaScript` | `TypeScript`  
-
-**🖥 Frameworks & Tools:**  
-`Node.js` | `React` | `Next.js` | `TailwindCSS` | `Bootstrap`  
-
-**🔌 Hardware & IoT:**  
-`ESP32-CAM` | `Arduino` | `Sensors & Actuators` | `Stepper Motors`  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+  <!-- IoT -->
+  <img src="https://img.icons8.com/color/48/arduino.png" height="40" alt="Arduino" />
+  <img src="https://img.icons8.com/color/48/electronics.png" height="40" alt="IoT" />
+</p>
 
 ---
 
