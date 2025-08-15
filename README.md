@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Al Banawy</h1>
-<h3 align="center">Computer Science Student | Smart Farming Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Computer Science Enthusiast | Smart Farming Enthusiast | Front-End Web Developer</h3>
 
 ---
 
 ### 🌟 About Me
-- 🎓 **Computer Science Student** at Mansoura University
-- 🌱 Currently working on **Agri Lens** – A smart farming system using AI, IoT, and automation
-- 💻 Passionate about **Backend Development** (.NET, FastAPI) and **Frontend** (React, Flutter)
+- 🎓 **Computer Science Graduate** from Mansoura University
+- 🌱 Worked on **Agri Lens** – A smart farming system using AI, IoT, and automation
+- 💻 Passionate about **Backend Development** (Node JS) and **Frontend** (React, Next)
 - 🤖 Interested in **AI, IoT, and Computer Vision**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **albanawyibrahim@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:**  
-`C#` | `Python` | `JavaScript` | `TypeScript`
+`HTML` | `CSS` | `JavaScript` | `TypeScript`
 
 **Frameworks & Tools:**  
-`.NET` | `FastAPI` | `React` | `Flutter` | `Firebase` | `Supabase` | `TailwindCSS` | `Bootstrap`
+`Node JS` | `React` | `Next` | `TailwindCSS` | `Bootstrap`
 
 **Hardware & IoT:**  
 `ESP32-CAM` | `Arduino` | `Sensors & Actuators` | `Stepper Motors`
@@ -32,8 +32,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlBanawy&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlBanawy&layout=compact&theme=tokyonight" alt="Top languages" height="180" />
 </p>
 
 ---
